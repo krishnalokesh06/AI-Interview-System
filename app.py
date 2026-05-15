@@ -10,7 +10,7 @@ st.sidebar.info(
     "This AI Interview System evaluates candidate answers using Generative AI and provides instant feedback."
 )
 # Configure API Key
-genai.configure(api_key="AIzaSyDOoK50F69Zt_wBaEI51WI2RatYbgx6isg")
+genai.configure(api_key="")
 
 # Load Gemini Model
 model = genai.GenerativeModel("gemini-2.0-flash")
