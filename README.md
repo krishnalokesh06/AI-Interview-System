@@ -31,3 +31,7 @@ It helps candidates practice HR interviews, get instant feedback, and analyze pe
 ---
 
 ## 📂 Project Structure
+python -m streamlit run app.py in cmd to run the streamlit
+
+
+
